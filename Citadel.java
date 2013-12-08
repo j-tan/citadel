@@ -8,8 +8,8 @@ import java.util.*;
  */
 public class Citadel {
 
-	public static void main(String[] args) {
-		Run runnable = new Run();
-		runnable.run();
-	}
+    public static void main(String[] args) {
+        Run runnable = new Run();
+        runnable.run();
+    }
 }
